@@ -13,3 +13,4 @@ main:
     # Exit
     li a7, 10       # ecall 10: Exit
     ecall
+
